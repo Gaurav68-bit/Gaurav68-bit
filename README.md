@@ -1,6 +1,6 @@
 
 <!--
-**satish603/satish603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Gaurav68-bit/Gaurav68-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
-<img src="https://visitor-badge.laobi.icu/badge?page_id=satish603.satish603">  <img src="https://img.shields.io/github/followers/satish603?label=Follow&style=social)](https://github.com/satish603">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Gaurav68-bit.Gaurav68-bit">  <img src="https://img.shields.io/github/followers/Gaurav68-bit?label=Follow&style=social)](https://github.com/Gaurav68-bit">
 
 - 🔭 I’m currently exploring Data Science 
 - 👯 I’m looking to collaborate on Serverless API
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 -  <p align="left"> <a href="/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="c" width="40" height="40"/> </a> <a href="/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </p>      
 - 😄 Enthusiast of cloud, Data Analytic many more..           
 - 💬 Ask me about Web, Android Development.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/satish603/) / [Gmail](mailto:satishchauhan603@gmail.com) / [Instagram](https://www.instagram.com/satish_603/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/Gaurav68-bit/) / [Gmail](mailto:satishchauhan603@gmail.com) / [Instagram](https://www.instagram.com/satish_603/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
 
@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 
 ### :trophy: My Github Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satish603&theme=tokyonight&hide=dart">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=satish603&&show_icons=true&theme=tokyonight">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=satish603&show_icons=true&theme=tokyonight&fire=DD2727">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav68-bit&theme=tokyonight&hide=dart">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gaurav68-bit&&show_icons=true&theme=tokyonight">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Gaurav68-bit&show_icons=true&theme=tokyonight&fire=DD2727">
